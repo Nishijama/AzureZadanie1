@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AzureWebsite.Api.Migrations
 {
     [DbContext(typeof(PeopleDb))]
-    [Migration("20240406135237_InitMigration")]
+    [Migration("20240623134804_InitMigration")]
     partial class InitMigration
     {
         /// <inheritdoc />

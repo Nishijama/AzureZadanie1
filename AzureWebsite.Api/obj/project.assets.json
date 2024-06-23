@@ -5381,11 +5381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/filipplociennik/Desktop/School/Azure/AzureWebsite_Before/AzureWebsite.Api/AzureWebsite.Api.csproj",
+      "projectUniqueName": "/Users/filipplociennik/Desktop/School/Azure/AzureZadanie1/developerlife-azurewebapps/AzureWebsite_Before/AzureWebsite.Api/AzureWebsite.Api.csproj",
       "projectName": "AzureWebsite.Api",
-      "projectPath": "/Users/filipplociennik/Desktop/School/Azure/AzureWebsite_Before/AzureWebsite.Api/AzureWebsite.Api.csproj",
+      "projectPath": "/Users/filipplociennik/Desktop/School/Azure/AzureZadanie1/developerlife-azurewebapps/AzureWebsite_Before/AzureWebsite.Api/AzureWebsite.Api.csproj",
       "packagesPath": "/Users/filipplociennik/.nuget/packages/",
-      "outputPath": "/Users/filipplociennik/Desktop/School/Azure/AzureWebsite_Before/AzureWebsite.Api/obj/",
+      "outputPath": "/Users/filipplociennik/Desktop/School/Azure/AzureZadanie1/developerlife-azurewebapps/AzureWebsite_Before/AzureWebsite.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/filipplociennik/.nuget/NuGet/NuGet.Config"

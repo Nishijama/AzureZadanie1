@@ -25,10 +25,8 @@ public class PeopleController : ControllerBase
         //     new Person(firstName: "Jan", lastName: "Nowak", phoneNumber: "123321123"),
         //     new Person(firstName: "Marek", lastName: "Kowalski")
         // };
-
-        // return mock;
-
         var people = await db.People.ToListAsync();
+
         return people;
     }
 }

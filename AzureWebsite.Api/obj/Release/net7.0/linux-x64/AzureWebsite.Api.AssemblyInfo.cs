@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureWebsite.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3922e66485483e4ee303434d2323e7773a760303")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureWebsite.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureWebsite.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

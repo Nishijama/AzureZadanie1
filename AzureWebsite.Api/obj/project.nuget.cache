@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IRzf6Xl5wg7lRfShI5IemwODO9Wnj0+Xv2KoiJv+wPKY335C4Yz2btUVZZdc98uP7fFOwbLZUHjbF8A1R9zp6A==",
+  "dgSpecHash": "olHD+X5/ubQ/Oyfaxd5NVi/+ogYhporxhRz0RpCJrEF0xMOjI8hirJ0hYCdu03ouxZLVngA1j9qUzM0fv/58jA==",
   "success": true,
-  "projectFilePath": "/Users/filipplociennik/Desktop/School/Azure/AzureWebsite_Before/AzureWebsite.Api/AzureWebsite.Api.csproj",
+  "projectFilePath": "/Users/filipplociennik/Desktop/School/Azure/AzureZadanie1/developerlife-azurewebapps/AzureWebsite_Before/AzureWebsite.Api/AzureWebsite.Api.csproj",
   "expectedPackageFiles": [
     "/Users/filipplociennik/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/filipplociennik/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
